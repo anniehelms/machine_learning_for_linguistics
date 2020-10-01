@@ -3,4 +3,4 @@ This repository contains tutorials for some statistical and machine learning tec
 
 If you do not already have a way to access JupyterLab on your computer, you can visit <https://www.anaconda.com/products/individual> to download Anaconda Navigator, which will give you access to JupyterLab and Jupyter Notebook.
 
-Alternatively, if you are affiliated with UC Berkeley, you can access JupyterLab through www.datahub.berkeley.edu/hub/login.
+Alternatively, if you are affiliated with UC Berkeley, you can access JupyterLab through datahub.berkeley.edu/hub/login.
