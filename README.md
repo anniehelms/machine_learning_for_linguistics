@@ -1,4 +1,4 @@
-# machine_learning_for_linguistics
+# Machine Learning for Linguistics
 This repository contains tutorials for some statistical and machine learning techniques in Python, with applications in linguistic research. 
 
 If you do not already have a way to access JupyterLab on your computer, you can visit <https://www.anaconda.com/products/individual> to download Anaconda Navigator, which will give you access to JupyterLab and Jupyter Notebook.
