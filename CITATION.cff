@@ -1,0 +1,13 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Machine Learning for Linguistics
+message: >-
+  If you use notebooks in this repo to process your
+  data, please cite it using these metadata.
+type: software
+authors:
+  - given-names: Annie
+    family-names: Helms
+repository-code: "https://github.com/anniehelms/machine_learning_for_linguistics"
